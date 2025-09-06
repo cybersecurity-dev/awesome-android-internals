@@ -1,4 +1,4 @@
-# Awesome Android Internals [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) [Internals](https://en.wikipedia.org/wiki/Android_version_history) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
