@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="35%" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/Android.svg" />
+</p>
+
 # Awesome [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) [Internals](https://en.wikipedia.org/wiki/Android_version_history) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <p align="center">
