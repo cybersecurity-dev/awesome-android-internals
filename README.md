@@ -5,7 +5,7 @@
         </a>
     </p>
 
-# Awesome [Android]() [Internals](https://en.wikipedia.org/wiki/Android_version_history) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [Android]() [Internals](https://wikipedia.org/wiki/Android_version_history) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)]()
