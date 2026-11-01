@@ -21,6 +21,25 @@
     <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
 </p>
 
+```mermaid
+timeline
+    title Android Platform Evolution
+    2007 : Android public beta
+    2008 : Android 1.0
+    2009 : Cupcake
+    2011 : Honeycomb
+    2014 : Android 5.0
+         : ART era
+    2017 : Android 8
+         : Treble era
+    2019 : Android 10
+    2021 : Android 12
+    2023 : Android 14
+    2024 : Android 15
+    2025 : Android 16
+    2026 : Android 17
+```
+
 ## 📖 Contents
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
