@@ -5,6 +5,51 @@
         </a>
     </p>
 
+```mermaid
+mindmap
+  root((Android Internals))
+    Development
+      Android Studio
+      SDK
+      NDK
+      Gradle
+      ADB
+    Static Analysis
+      JADX
+      Apktool
+      Ghidra
+      readelf
+      objdump
+    Dynamic Analysis
+      Frida
+      strace
+      logcat
+      Perfetto
+    Application
+      APK
+      DEX
+      Manifest
+      Resources
+      Native SO
+    Runtime
+      ART
+      Zygote
+      Garbage Collector
+      JIT
+      AOT
+    IPC
+      Binder
+      Services
+      Service Manager
+    Kernel
+      Scheduler
+      Memory
+      Binder Driver
+      SELinux
+      Drivers
+      GKI
+```
+
 # **`Awesome`** [Android]() [Internals](https://wikipedia.org/wiki/Android_version_history) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 </div>
 
